@@ -1,0 +1,70 @@
+html, body {
+    display: flex;
+    background: linear-gradient(135deg, #B9F2FF, #FFFFFF, #008793, #00d4ff);
+    margin: 0%;
+    padding: 0%;
+
+}
+
+body {
+    display: flex;
+    color: black;
+
+}
+
+
+h1 {
+    color: #0B2545;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 0%;
+    padding: 0%;
+    
+
+}
+   
+
+ {
+    background-color: black;
+    color: green;
+}
+
+p {
+    color: rgb(255, 45, 45);
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p.unnique {
+    color: orange;
+}
+
+
+p.bot{
+    color: rgba(15, 17, 37, 0.96);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    padding: 0%;
+    margin 5px
+    
+}
+
+p.char {
+    color: black;
+    font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+
+
+a {
+    color: rgb(60, 0, 255);
+};
+
+main {
+    width: 80%;
+    max-width: 800px;
+}
